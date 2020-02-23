@@ -16,7 +16,7 @@ xcode-select --install
 ```
 You will be prompted to install command line developer tools!
 
-[Solution ](https://tips.tutorialhorizon.com/2015/10/01/xcrun-error-invalid-active-developer-path-library-developer-commandline-tools-missing-xcrun/)
+[still having trouble with this one, read more here](https://tips.tutorialhorizon.com/2015/10/01/xcrun-error-invalid-active-developer-path-library-developer-commandline-tools-missing-xcrun/)
 
 2. The `gRPC fails to rebuild` issue
 
