@@ -4,11 +4,11 @@ Workshop by Lennart Frantzell and Grant Steinfeld given at workshops in Bay Area
 ### vnc ideas
 https://wiki.centos.org/HowTos/VNC-Server
 
-grant
+grant 4
 
-lennart
+lennart 5
 
-clara
+clara 6
 
 gR@Nt9765
 
