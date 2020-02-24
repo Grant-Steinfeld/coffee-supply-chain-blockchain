@@ -73,7 +73,9 @@ IBM Blockchain Platform extenston.
 >Track the journey of Coffee Beans
 From Farm to The Roaster 
 
-### Watch the silent video 
+### Follow along with the video 
+Note this is a `silent video` for now.
+
 [Create a simple Coffee Bean Supply ChainBlockchain on Hyperledger Fabric](https://youtu.be/5b7awLi93-E)
 
 
@@ -85,7 +87,7 @@ https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabri
 [Forbes Blockchain 50](
 https://www.forbes.com/sites/michaeldelcastillo/2020/02/19/blockchain-50/?linkId=82815201#5188e7877553)
 
-### Help
+
 
 #### Follow us on social media:
 
@@ -95,4 +97,4 @@ Grant Steinfeld
 
 Lennart Frantzell 
 
-@
+@LFrantzell 
