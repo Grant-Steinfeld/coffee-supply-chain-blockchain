@@ -2,6 +2,8 @@
 
 Blockchain increases visibility and efficiency in the supply chain like the coffee trade. See how blockchain can assist farmers, roaster and everyone between, bring you a fresher and fairer cup. Come out and we will walk you through design, development, and deployment of an illustrative blockchain network and application.
 
+![BlockChain Bean image from original code pattern by Horea Poritiu](https://github.com/IBM/blockchainbean2/blob/master/docs/bean.png)
+
 In this hands on workshop, you will learn about...
 
 - Developing a supply chain blockchain application with VS Code
