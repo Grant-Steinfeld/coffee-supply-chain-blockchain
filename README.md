@@ -4,7 +4,10 @@ Blockchain increases visibility and efficiency in the supply chain like the coff
 
 ![BlockChain Bean image from original code pattern by Horea Poritiu](https://github.com/IBM/blockchainbean2/blob/master/docs/bean.png)
 
-In this hands on workshop, you will learn about...
+In this bi-coastal USA in Manhattan, NY [hands on workshop](https://www.meetup.com/ibmcodenyc/events/268172882/) 
+and [soon to be posted] Bay Area, CA
+
+You will learn about...
 
 - Developing a supply chain blockchain application with VS Code
 - Deploying it on the IBM Blockchain Platform.
