@@ -66,12 +66,13 @@ docker-compose version 1.25.4, build 8d51620a
 ```
 If you have these, awesome!  
 
-If you don't have the correct version of node.js and npm? No worries!
-<details><summary><strong> We recommend using Node Version Manager(NVM)</strong> to run mutliple node.js version safely on your computer</summary>
-  > Follow the [NVM install docs here](https://github.com/nvm-sh/nvm)
-  </details>
+If you don't have the correct version of node.js and npm? No worries! We recommend using Node Version Manager(NVM) to run mutliple node.js version safely on your computer
 
-If you are having trouble, check out the comprehensive documentation on how to start  [Developing smart contracts with Visual Studio Code extension](https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-develop-vscode)
+<details><summary><strong> Click here to learn more about NVM and it's setup.</strong></summary>
+>Follow the simple [NVM install docs here](https://github.com/nvm-sh/nvm)
+</details>
+
+If you are having trouble, check out the comprehensive documentation on how to start  [Developing smart contracts with Visual Studio Code extension](https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-develop-vscode) or check out our [Trouble shooting page here](./TROUBLE-SHOOTING.md)
 
 #### Fire up Microsoft Visual Studio Code and install the VSCode Extension for the IBM Blockchain Platform
 
