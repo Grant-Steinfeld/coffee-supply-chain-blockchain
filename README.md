@@ -103,6 +103,7 @@ Note this is a `silent video` for now.
 
 
 ### Resources
+[The Blockchain Bean](https://www.ibm.com/thought-leadership/blockchainbean/)
 
 [Create a fair trade supply chain network – Use Hyperledger Fabric to increase efficiency in the supply chain of a coffee retailer – March 2019, `IBM Code Pattern` by Horea Porutiu and Grant Steinfeld](https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/)
 
