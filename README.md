@@ -49,9 +49,11 @@ docker-compose -v
 docker-compose version 1.25.4, build 8d51620a
 
 ```
-if you have these, awesome!  otherwise see the detailed pre-requisites the VSCode IBM Blockchain platform extenstion for your computer's Operating System [here]()
+if you have these, awesome!  
 
-### Start Microsoft Visual Studio Code and install the VSCode Extension for the IBM Blockchain Platform
+If you are having trouble, check out the comprehensive documentation on how to start  [Developing smart contracts with Visual Studio Code extension](https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-develop-vscode)
+
+#### Fire up Microsoft Visual Studio Code and install the VSCode Extension for the IBM Blockchain Platform
 
 ![Installing the IBM Blockchaing Platform Ext for VSCode](images/vscode-installing-IBM-Blockchain-platform-ext.png)
 
