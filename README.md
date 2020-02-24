@@ -41,7 +41,7 @@ it
 
 
 
-## Great!  Now lets make sure you have all the other requirements:
+## Great!  Now lets make sure you have all the other required software and versions:
 
 1. node.js
 1. npm
@@ -64,7 +64,12 @@ docker-compose -v
 docker-compose version 1.25.4, build 8d51620a
 
 ```
-if you have these, awesome!  
+If you have these, awesome!  
+
+If you don't have the correct version of node.js and npm? No worries!
+<details><summary><strong> We recommend using Node Version Manager(NVM)</strong> to run mutliple node.js version safely on your computer</summary>
+  > Follow the [NVM install docs here](https://github.com/nvm-sh/nvm)
+  </details>
 
 If you are having trouble, check out the comprehensive documentation on how to start  [Developing smart contracts with Visual Studio Code extension](https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-develop-vscode)
 
