@@ -114,13 +114,14 @@ Note this is a `silent video` for now.
 [Forbes Blockchain 50](
 https://www.forbes.com/sites/michaeldelcastillo/2020/02/19/blockchain-50/?linkId=82815201#5188e7877553)
 
+[Why blockchain is a better database](https://medium.com/blockworks-group/is-blockchain-better-than-a-database-d518743bdafa)
 
 
 #### Follow us on social media:
 
-***Grant Steinfeld*** @gsteinfeld
+***Grant Steinfeld*** [@gsteinfeld](https://twitter.com/gsteinfeld)
 
-***Lennart Frantzell*** @LFrantzell 
+***Lennart Frantzell*** [@LFrantzell](https://twitter.com/LFrantzell]
 
 ***Find out about more awesome IBM Developer content and future events*** https://developer.ibm.com
 
