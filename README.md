@@ -121,7 +121,7 @@ https://www.forbes.com/sites/michaeldelcastillo/2020/02/19/blockchain-50/?linkId
 
 ***Grant Steinfeld*** [@gsteinfeld](https://twitter.com/gsteinfeld)
 
-***Lennart Frantzell*** [@LFrantzell](https://twitter.com/LFrantzell]
+***Lennart Frantzell*** [@LFrantzell](https://twitter.com/LFrantzell)
 
 ***Find out about more awesome IBM Developer content and future events*** https://developer.ibm.com
 
