@@ -2,8 +2,6 @@
 
 Blockchain increases visibility and efficiency in the supply chain like the coffee trade. See how blockchain can assist farmers, roaster and everyone between, bring you a fresher and fairer cup. Come out and we will walk you through design, development, and deployment of an illustrative blockchain network and application.
 
-![BlockChain Bean image from original code pattern by Horea Poritiu](https://github.com/IBM/blockchainbean2/blob/master/docs/bean.png)
-
 In this bi-coastal USA in Manhattan, NY [hands on workshop](https://www.meetup.com/ibmcodenyc/events/268172882/) 
 and [soon to be posted] Bay Area, CA
 
@@ -14,6 +12,8 @@ You will learn about...
 - Successful Blockchain applications in the Supply Chain space such as IBM Food Trust and others
 - Best practices for developing blockchain applications today and looking forward to the future
 
+## The slide deck 
+[Here it is in PDF format](https://github.com/Grant-Steinfeld/coffee-supply-chain-blockchain/blob/master/IBP%202010%20Feb%20NYC%20SF%20Meetup.v2.pdf)
 
 ## Components used
 * IBM Blockchain Platform Extenstion for Visual Studio Code
